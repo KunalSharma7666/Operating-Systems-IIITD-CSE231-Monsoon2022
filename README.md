@@ -1,1 +1,1 @@
-# Assignments done in Operating systems Course at IIITD
+# Assignments done in Operating Systems course at IIITD
